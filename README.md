@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/JoelLucaAdams" title="GitHub page">
-    <img alt="profile_pic" src="https://raw.githubusercontent.com/JoelLucaAdams/cv/master/img/joel_adams_cicular.png" width="120px" height="120px"/>
+    <img alt="profile_pic" src="https://raw.githubusercontent.com/JoelLucaAdams/cv/master/img/joel_adams_cicular.png" width="150px" height="150px"/>
   </a>
   <br />
   Joel Adams CV
