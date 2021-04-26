@@ -12,8 +12,8 @@
 
 ## Contents of this project
 
-* `cv.pdf` - current most up to date CV
-* `coverletter.pdf` - most up to date cover letter
+* `Joel_Adams_CV.pdf` - current most up to date CV
+* `Joel_Adams_Cover_Letter.pdf` - most up to date cover letter
 
 ## Credit
 
