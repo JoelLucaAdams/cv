@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/JoelLucaAdams" title="GitHub page">
-    <img alt="profile_pic" src="https://avatars.githubusercontent.com/u/57064123?v=4" width="150px" height="150px" style="border-radius: 50%;"/>
+    <img alt="profile_pic" src="https://raw.githubusercontent.com/JoelLucaAdams/cv/master/img/joel_adams_cicular.png" width="120px" height="120px"/>
   </a>
   <br />
   Joel Adams CV
@@ -14,7 +14,6 @@
 
 * `cv.pdf` - current most up to date CV
 * `coverletter.pdf` - most up to date cover letter
-
 
 ## Credit
 
